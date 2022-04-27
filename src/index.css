@@ -1,0 +1,9 @@
+a {
+  text-decoration: none !important;
+  margin: 20px;
+}
+
+
+.completed{
+  text-decoration: line-through;
+}
